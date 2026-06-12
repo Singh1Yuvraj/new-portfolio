@@ -1,0 +1,61 @@
+[
+  {
+    "_id": "mock_user_wmhnaw4_1781253460876",
+    "profile": {
+      "fullName": "Zxcvbnm,",
+      "title": "Full Stack Engineer",
+      "bio": "Writing code and building awesome products locally.",
+      "avatarUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_Zuz3haRHrSz0f3bnMlUTGa14Qc7Z5LLQ3-l04P98hv9CMXQU",
+      "location": "San Francisco, CA",
+      "email": "dev@example.com",
+      "resumeUrl": ""
+    },
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Node.js",
+      "Tailwind CSS"
+    ],
+    "projects": [
+      {
+        "title": "cdvfgngm,",
+        "description": "fdgnhm hgl, rtpoglmhbr tro ky90h gb .54 rtk. nrtigokbr;gl., b4039pogb'5",
+        "techStack": [
+          "java javascript"
+        ],
+        "liveUrl": "",
+        "githubUrl": "",
+        "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_Zuz3haRHrSz0f3bnMlUTGa14Qc7Z5LLQ3-l04P98hv9CMXQU"
+      }
+    ],
+    "experience": [
+      {
+        "role": "fgdfbnhm,n.,/",
+        "company": "mnbvdsa",
+        "from": "1/2001",
+        "to": "12/2025",
+        "description": "DGVBGFJK NFKSD., VEL/Q"
+      }
+    ],
+    "education": [],
+    "socials": {
+      "github": "",
+      "linkedin": "",
+      "twitter": "",
+      "website": ""
+    },
+    "settings": {
+      "template": "modern",
+      "isPublic": true,
+      "templateHistory": [
+        "dark",
+        "modern"
+      ]
+    },
+    "email": "dev@example.com",
+    "createdAt": "2026-06-12T08:37:40.876Z",
+    "updatedAt": "2026-06-12T08:59:02.119Z",
+    "username": "test-user-123"
+  }
+]
